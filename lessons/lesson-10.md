@@ -28,4 +28,4 @@ Agora que concluímos todas aulas do workshop que tal abrir um pull request do s
 
 Dica: podemos usar o rebase aprendido na aula 4 para trazer as informações da branch `lesson-9` pra branch atual, fazer o push e abrir o PR.
 
-Aula 10 - teste de PR 14/05/2024
+Aula 10 - teste de PR 14/05/2024 - final
